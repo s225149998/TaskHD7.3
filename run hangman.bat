@@ -1,0 +1,1 @@
+streamlit run hangman_1.1.py
